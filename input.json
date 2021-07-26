@@ -1,0 +1,59 @@
+{
+  "llc_information": {
+    "legal_name": "test",
+    "has_dba": false,
+    "number_of_llc_members": 5,
+    "state_organization_are_filed": "Idaho",
+    "state_business_is_located": "Iowa",
+    "date_entity_was_started": "10/31/2020"
+  },
+  "responsible_party_information": {
+    "first_name": "Bertrand",
+    "middle_name": "Son",
+    "last_name": "Kintanar",
+    "suffix": "DDS",
+    "title": "Managing Member/Owner",
+    "social_security_no": "123456789"
+  },
+  "business_address": {
+    "address_1": "Test",
+    "address_2": "Test 2",
+    "city": "City",
+    "state": "Alabama",
+    "zip_code": "56000",
+    "country": "Philippines",
+    "mailing": false,
+    "mailing_address_1": "Test",
+    "mailing_address_2": "Test 2",
+    "mailing_city": "City",
+    "mailing_state": "Alabama",
+    "mailing_zip_code": "56000"
+  },
+  "about_the_business_entity": {
+    "reason_for_applying": "Started a New Business",
+    "primary_activity": "Finance",
+    "finance_type": "Testing",
+    "has_highway_motor_vehicle": true,
+    "business_involves_gambling": true,
+    "need_to_file_form_720": true,
+    "sell_or_manufacture_alcohol_tobacco_firearms": true,
+    "will_receive_forms_w_2": true,
+    "tax_liability_less_1000": true,
+    "number_agricultural_employees": 1,
+    "number_other_employees": 2,
+    "first_date_wages": "10/31/2019",
+    "applied_for_an_ein_before": true,
+    "previous_ein_number": "1234567890"
+  },
+  "contact_information": {
+    "recipient_email": "bertrand.kintanar@gmail.com",
+    "recipient_phone": "1234567890"
+  },
+  "payment_information": {
+    "coupon": "TESTCOUPON",
+    "card_number": "4242 4242 4242 4242",
+    "expiration_date": "0727",
+    "cvc": "644",
+    "name_on_card": "Bertrand Kintanar"
+  }
+}
